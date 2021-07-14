@@ -36,14 +36,14 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/blackhat955">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=blackhat955&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=blackhat955&layout=compact&langs_count=12&theme=algolia"/>
+<a href="https://github.com/Sumitm6879">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sumitm6879&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sumitm6879&layout=compact&langs_count=12&theme=algolia"/>
 </a>
 </p>
 
 <p align="center">
-<img src="https://activity-graph.herokuapp.com/graph?username=blackhat955&theme=dracula&bg_color=ffffff00&color=878787&line=296dda&point=ffffff00&area=true&hide_border=true">
+<img src="https://activity-graph.herokuapp.com/graph?username=Sumitm6879&theme=dracula&bg_color=ffffff00&color=878787&line=296dda&point=ffffff00&area=true&hide_border=true">
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
