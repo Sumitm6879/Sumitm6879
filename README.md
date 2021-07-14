@@ -5,7 +5,7 @@
 <h3 align="center">A passionate IT student from India and AI&ML Enthusiasts </h3>
 	
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=blackhat955&color=blueviolet&style=flat">
+  <img src="https://komarev.com/ghpvc/?username=Sumitm6879&color=blueviolet&style=flat">
 </p>
 
 - 🌱 I’m currently learning **Python and MongoDB**
@@ -43,7 +43,7 @@
 </p>
 
 <p align="center">
-<img src="https://activity-graph.herokuapp.com/graph?username=Sumitm6879&theme=dracula&bg_color=ffffff00&color=878787&line=296dda&point=ffffff00&area=true&hide_border=true">
+<img src="https://activity-graph.herokuapp.com/graph?username=Sumitm6879 &theme=dracula&bg_color=ffffff00&color=878787&line=296dda&point=ffffff00&area=true&hide_border=true">
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
