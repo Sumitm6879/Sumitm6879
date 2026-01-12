@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Python and MongoDB**
 
-- 👨‍💻 All of my projects are available at [github](https://github.com/Sumitm6879)
+- 👨‍💻 All of my projects are available at [github](https://github.com/Sumitm6879?tab=repositories)
 
 - 💬 Ask me about **Python**
 
