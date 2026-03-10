@@ -33,13 +33,7 @@
 ![Linux](http://img.shields.io/badge/-Linux-0078D6?style=for-the-badge&logo=linux&logoColor=ffffff)
 <br/>
 
-<p align="center">
-<img src="https://activity-graph.herokuapp.com/graph?username=Sumitm6879&theme=dracula&bg_color=ffffff00&color=878787&line=296dda&point=ffffff00&area=true&hide_border=true">
-</p>
-
 ### 🤝🏻 &nbsp;Connect with Me
-
-
 
 <p>
 <a href="mailto:work.sumitm@gmail.com"><img src="https://img.shields.io/badge/-sm78810@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
