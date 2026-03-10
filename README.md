@@ -8,13 +8,13 @@
   <img src="https://komarev.com/ghpvc/?username=Sumitm6879&color=blueviolet&style=flat">
 </p>
 
-- 🌱 I’m currently learning **Python and MongoDB**
+- 🌱 I’m currently learning **Mobile Development and FastAPI**
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/Sumitm6879?tab=repositories)
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **React Native**
 
-- 📫 How to reach me **work.sumit@gmail.com**
+- 📫 How to reach me **work.sumitm@gmail.com**
 
 ### 🛠 &nbsp;Languages and Tools
 
@@ -39,6 +39,8 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
+
+
 <p>
-<a href="mailto:sm78810@gmail.com"><img src="https://img.shields.io/badge/-sm78810@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:work.sumitm@gmail.com"><img src="https://img.shields.io/badge/-sm78810@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
